@@ -1,2 +1,2 @@
 # MadLibsGame
-MadLibs is game developed in C#. 
+MadLibs is a game developed in C#. 
